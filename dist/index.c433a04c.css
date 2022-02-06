@@ -1,0 +1,2 @@
+body,html{height:100%}.game-wrapper{border:3px solid #a5c0ff;display:flex;flex-wrap:wrap;height:100%;width:100%}.controls-wrapper{margin:15px 10px}.row{display:flex;flex-wrap:nowrap;width:100%}.cell{border:1px solid #000;border-radius:50%;cursor:pointer;transition:background .1s ease-in}.cell.non-active{background:#fff}.cell.active{background:#000}
+/*# sourceMappingURL=index.c433a04c.css.map */
